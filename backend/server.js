@@ -33,6 +33,7 @@ connectDB(); // Ensure your DB connection is correctly set up
 app.get('/', (req, res) => {
     res.send('Hello World');
 });
+// });
 
 
 
